@@ -1,4 +1,4 @@
-cd "C:\Users\igna9\Desktop\seminario"
+cd "C:\Users\jigon\OneDrive\Documentos\Economía\MunicipalitiesPoliticalBudgetCycles\Regressions"
 
 log using "output.smcl", replace
 
